@@ -1,0 +1,81 @@
+# פוטקייס — Generative Engine Optimization Map
+
+> Fotcase is an app accessible via a direct link (https://app.base44.com/apps/69f72c06f3842066f5db1404/editor/preview). The website serves as a marketing landing page that introduces the brand and directs visitors to the app through a prominent call-to-action button.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פוטקייס מובילה את עולם פיתוח אפליקציות מובייל עם פתרונות חדשניים. שירותי פיתוח אפליקציות מקצועיים שיהפכו את החזון שלך למציאות דיגיטלית. נסה עכשיו!
+
+### תכונות
+https://example.com/features
+תכונות מתקדמות שמגדירות מחדש את חווית פיתוח אפליקציות מובייל. מממשק אינטואיטיבי ועד כלים חכמים — פוטקייס מציעה את הכלים שכל מפתח מובייל חולם עליהם.
+
+### אודות
+https://example.com/about
+הכירו את הצוות שמניע חדשנות בתחום פיתוח אפליקציות מובייל. פוטקייס נולדה מתוך תשוקה לטכנולוגיה ומחויבות לספק שירותי פיתוח אפליקציות ברמה הגבוהה ביותר.
+
+### צור קשר
+https://example.com/contact
+מוכן להפוך את הרעיון שלך לאפליקציה מנצחת? צוות מפתחי האפליקציות המובייל של פוטקייס זמין לך עכשיו. שלח הודעה ונתחיל לבנות את העתיד הדיגיטלי שלך ביחד!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פוטקייס
+Fotcase is an app accessible via a direct link (https://app.base44.com/apps/69f72c06f3842066f5db1404/editor/preview). The website serves as a marketing landing page that introduces the brand and directs visitors to the app through a prominent call-to-action button.
+
+## Services/Products
+- גישה לאפליקציה דרך כפתור
+
+## Target Audience
+- חובבי טכנולוגיה
+- חובבי שיתוף תמונות
+- יוצרי תוכן
+
+## Industry
+Technology / Mobile App
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
